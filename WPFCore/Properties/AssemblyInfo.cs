@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WPFCore")]
 [assembly: AssemblyDescription("Provides core functionality for WPF applications.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Mathis Rech")]
 [assembly: AssemblyProduct("WPFCore")]
 [assembly: AssemblyCopyright("Copyright © Mathis Rech 2016")]
 [assembly: AssemblyTrademark("")]
