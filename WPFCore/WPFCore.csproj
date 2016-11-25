@@ -55,6 +55,7 @@
     <Compile Include="Windows\WindowView.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="GlobalClassDiagram.cd" />
     <None Include="WPFCore.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
