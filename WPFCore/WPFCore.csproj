@@ -9,6 +9,15 @@
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Description>Provides core functionality for WPF applications.</Description>
+    <Copyright>Copyright (c) 2016 Mathis Rech</Copyright>
+    <PackageProjectUrl>https://github.com/Artentus/WPFCore</PackageProjectUrl>
+    <PackageTags>MVVM View ViewModel WPF Command RelayCommand .Net</PackageTags>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageId>Artentus.WPFCore</PackageId>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netcoreapp3.0|AnyCPU'">
